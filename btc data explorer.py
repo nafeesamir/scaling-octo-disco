@@ -2,7 +2,7 @@ import ccxt
 import pandas as pd
 import matplotlib.pyplot as plt
 import mplfinance as mpf
-from arch import arch_model
+
 
 exchange = ccxt.binance()
 symbol = 'BTCUSDT'
